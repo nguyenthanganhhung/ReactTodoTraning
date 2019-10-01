@@ -3,10 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "classnames": "^2.2.6",
+    "prop-types": "^15.7.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
+    "react-redux": "^7.1.1",
     "react-scripts": "3.1.2",
-    "redux": "^4.0.4"
+    "redux": "^4.0.4",
+    "redux-starter-kit": "^0.7.0",
+    "redux-thunk": "^2.3.0",
+    "reselect": "^4.0.0",
+    "todomvc-app-css": "^2.2.0"
   },
   "scripts": {
     "start": "set PORT=5000 && react-scripts start",
